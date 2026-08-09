@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+tf/
+tfvenv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data
+data/
+*.csv
+*.xlsx
+*.zip
+
+# Model files
+*.pth
+*.pt
+*.pkl
